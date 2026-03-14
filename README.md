@@ -32,5 +32,5 @@ As a student deeply passionate about **Discrete Mathematics** and **Number Theor
 My transition from studying theoretical **Discrete Mathematics** to implementing these data structures has solidified my logical thinking. I am now applying these foundational skills to explore **Machine Learning** and **Data Science**.
 
 ---
-*Created by [Your Name / 你的名字拼音] - Future AI & Data Science Researcher.*# CS408-Core-Fundamentals-Implementation
+*Created by [李家杰] - Future AI & Data Science Researcher.*# CS408-Core-Fundamentals-Implementation
 My C/C++ implementations of core Data Structures, Algorithms, and OS concepts during the rigorous CS408 preparation.
